@@ -1,0 +1,16 @@
+body {
+	font-family: 'Roboto', sans-serif;
+  background: $blacks;
+  color: white;
+  user-select: text;
+}
+
+.image {
+	width: 100%;
+	height: 500px;
+	background-size: cover;
+	background-image: url('img/cool-cat.jpg');
+	background-size: cover;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
